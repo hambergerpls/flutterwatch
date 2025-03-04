@@ -4,7 +4,7 @@
 A command-line application that allows hot-reload/hot-restart when there is file
 change in directory.
 
-https://github.com/user-attachments/assets/799d70fc-328f-4ce8-a90c-ddcf09cdca66
+https://github.com/user-attachments/assets/8964d552-c7a6-4a2e-8941-c089a800ca7b
 
 ## Motivation
 
