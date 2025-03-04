@@ -1,0 +1,16 @@
+name: flutterwatch
+description: A command-line application that allows hot-reload/hot-restart when there is file change in directory.
+version: 0.0.1
+repository: https://github.com/hambergerpls/flutterwatch
+
+environment:
+  sdk: ^3.5.4
+
+# Add regular dependencies here.
+dependencies:
+  args: ^2.4.2
+  watcher: ^1.1.1
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.24.0
